@@ -4,8 +4,8 @@ project(plant_super_smash_bros)
 set(CMAKE_CXX_STANDARD 11)
 
 #修改路径
-set(EASYX_INCLUDE_DIR "easyX/include")
-set(EASYX_LIBRARY_DIR "easyX/lib")
+set(EASYX_INCLUDE_DIR "E:/vs2022/VC/Auxiliary/VS/include/easyx.h")
+set(EASYX_LIBRARY_DIR "E:/vs2022/VC/Auxiliary/VS/x64/EasyX*.lib")
 
 file(GLOB_RECURSE SRC_LIST ${PROJECT_SOURCE_DIR}/src/*.cpp)
 file(GLOB RESOURCES "${PROJECT_SOURCE_DIR}/resources/*.mp3" "${PROJECT_SOURCE_DIR}/resources/*.png" "${PROJECT_SOURCE_DIR}/resources/*.wav" "${PROJECT_SOURCE_DIR}/resources/*.ttf")
