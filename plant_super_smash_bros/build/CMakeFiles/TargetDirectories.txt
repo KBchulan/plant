@@ -1,3 +1,0 @@
-/media/charlotte/extra/workspace/plant_super_smash_bros/build/CMakeFiles/plant.dir
-/media/charlotte/extra/workspace/plant_super_smash_bros/build/CMakeFiles/edit_cache.dir
-/media/charlotte/extra/workspace/plant_super_smash_bros/build/CMakeFiles/rebuild_cache.dir

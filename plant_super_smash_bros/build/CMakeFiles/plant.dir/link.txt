@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/plant.dir/src/main.cpp.o -o plant   -L/media/charlotte/extra/workspace/plant_super_smash_bros/easyX/lib  -Wl,-rpath,/media/charlotte/extra/workspace/plant_super_smash_bros/easyX/lib -leasyX/include 
